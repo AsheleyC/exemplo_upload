@@ -1,0 +1,11 @@
+{
+  "name": "exemplo_upload",
+  "version": "1.0.0",
+  "description": "Aprendendo a forma do professor de usar o GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
